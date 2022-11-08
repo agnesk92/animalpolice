@@ -1,4 +1,46 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Állatrendőrség Alapítvány'
+
 theme = "ananke"
+# resourceDir = "../resources"
+
+DefaultContentLanguage = "hu"
+SectionPagesMenu = "main"
+Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[params]
+site_logo = "img/allatrendorseg.jpg"
+recent_posts_number = 1
+background_color_class = "bg-black"
+description = "asd Charity Organization"
+
+[[params.ananke_socials]]
+name = "facebook"
+label = "Facebook"
+url = "https://www.facebook.com/allatrendorseg2013"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://twitter.com/theNewDynamic"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/theNewDynamic"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://github.com/theNewDynamic"
+
+
+[languages]
+
+[languages.en]
+title = "Animal Police Organization"
+weight = 1
+contentDir = "content/en"
+
+[languages.hu]
+title = "Állatrendőrség Alapítvány"
+weight = 2
+contentDir = "content/hu"
