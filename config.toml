@@ -5,7 +5,7 @@ title = 'Állatrendőrség Alapítvány'
 theme = "ananke"
 # resourceDir = "../resources"
 
-DefaultContentLanguage = "hu"
+DefaultContentLanguage = "HU"
 SectionPagesMenu = "main"
 Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
 
@@ -35,12 +35,12 @@ url = "https://github.com/theNewDynamic"
 
 [languages]
 
-[languages.en]
+[languages.EN]
 title = "Animal Police Organization"
 weight = 1
 contentDir = "content/en"
 
-[languages.hu]
+[languages.HU]
 title = "Állatrendőrség Alapítvány"
 weight = 2
 contentDir = "content/hu"
