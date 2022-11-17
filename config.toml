@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
 
 [params]
-site_logo = "img/allatrendorseg.jpg"
+site_logo = "images/logo-200.png"
 recent_posts_number = 1
 background_color_class = "bg-black"
 description = "asd Charity Organization"
