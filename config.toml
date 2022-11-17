@@ -1,11 +1,10 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+# languageCode = 'en-us'
 title = 'Állatrendőrség Alapítvány'
 
 theme = "ananke"
-# resourceDir = "../resources"
 
-DefaultContentLanguage = "HU"
+DefaultContentLanguage = "hu"
 SectionPagesMenu = "main"
 Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
 
