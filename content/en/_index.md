@@ -1,11 +1,12 @@
 ---
-title: "Állatrendőrség Alapítvány"
+title: "Animal Police Foundation"
 description: "Charity Organization"
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: "2.8.2"
 cascade:
   featured_image: "/images/pexels-pixabay-207901.jpg"
 weight: 1
 ---
 
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+![](/images/c6d17d_3c090179e264405f82f44e5f153f5f45_mv2.jpg)
+
+![](/images/307113213_478916970806714_1405178437525709554_n.jpg)

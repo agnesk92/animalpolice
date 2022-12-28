@@ -1,10 +1,23 @@
 ---
 title: About
-featured_image: ""
+featured_image: ''
 omit_header_text: true
-description: Who we are?
 type: page
 menu: main
 ---
 
-Our story
+# People for Animals 2013 Foundation
+
+Our foundation is an organization of citizen volunteers that was founded in 2013.
+Our founding members have several years of animal rescue experience.
+For us, animal rescue is a vocation, and we do it voluntarily in our spare time.
+
+Our foundation aims to help animals' well-being and quality of life and to immediately rescue animals that have fallen victim to animal cruelty by cooperating with the authorities.
+
+Furthermore, transport to a veterinarian, temporary placement, medical treatment, physical and mental rehabilitation, and their final adoption.
+
+Introducing and enforcing correct and responsible animal husbandry and animal protection laws among the population.
+
+We want to achieve our goals with our cooperating partners from the entire territory of Hungary.
+
+{{< figure src="/images/307446451_640933240734296_5604354055506405349_n.jpg" >}}
