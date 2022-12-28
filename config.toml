@@ -1,4 +1,4 @@
-baseURL = 'https://agnesk92.github.io/animalpolice'
+baseURL = 'https://agnesk92.github.io/'
 # languageCode = 'en-us'
 title = 'Állatrendőrség Alapítvány'
 
@@ -21,15 +21,15 @@ url = "https://www.facebook.com/allatrendorseg2013"
 
 [[params.ananke_socials]]
 name = "instagram"
-url = "https://twitter.com/theNewDynamic"
+url = "https://www.instagram.com/allatrendorseg_alapitvany"
 
 [[params.ananke_socials]]
-name = "github"
-url = "https://github.com/theNewDynamic"
+name = "tiktok"
+url = "https://www.tiktok.com/@allatrendorsegalapitvany"
 
 [[params.ananke_socials]]
 name = "youtube"
-url = "https://github.com/theNewDynamic"
+url = "https://www.youtube.com/@allatrendorsegalapitvany2841"
 
 
 [languages]

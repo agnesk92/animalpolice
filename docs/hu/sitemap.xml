@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agnesk92.github.io/animalpolice/</loc>
+    <loc>https://agnesk92.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://agnesk92.github.io/animalpolice/en/"
+                href="https://agnesk92.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://agnesk92.github.io/animalpolice/"
+                href="https://agnesk92.github.io/"
                 />
   </url><url>
-    <loc>https://agnesk92.github.io/animalpolice/about/</loc>
+    <loc>https://agnesk92.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://agnesk92.github.io/animalpolice/en/about/"
+                href="https://agnesk92.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://agnesk92.github.io/animalpolice/about/"
+                href="https://agnesk92.github.io/about/"
                 />
   </url><url>
-    <loc>https://agnesk92.github.io/animalpolice/partners/</loc>
+    <loc>https://agnesk92.github.io/partners/</loc>
   </url><url>
-    <loc>https://agnesk92.github.io/animalpolice/contact/</loc>
+    <loc>https://agnesk92.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://agnesk92.github.io/animalpolice/en/contact/"
+                href="https://agnesk92.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://agnesk92.github.io/animalpolice/contact/"
+                href="https://agnesk92.github.io/contact/"
                 />
   </url><url>
-    <loc>https://agnesk92.github.io/animalpolice/help/</loc>
+    <loc>https://agnesk92.github.io/help/</loc>
   </url><url>
-    <loc>https://agnesk92.github.io/animalpolice/donate/</loc>
+    <loc>https://agnesk92.github.io/donate/</loc>
   </url><url>
-    <loc>https://agnesk92.github.io/animalpolice/categories/</loc>
+    <loc>https://agnesk92.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://agnesk92.github.io/animalpolice/en/categories/"
+                href="https://agnesk92.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://agnesk92.github.io/animalpolice/categories/"
+                href="https://agnesk92.github.io/categories/"
                 />
   </url><url>
-    <loc>https://agnesk92.github.io/animalpolice/tags/</loc>
+    <loc>https://agnesk92.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://agnesk92.github.io/animalpolice/en/tags/"
+                href="https://agnesk92.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="https://agnesk92.github.io/animalpolice/tags/"
+                href="https://agnesk92.github.io/tags/"
                 />
   </url>
 </urlset>

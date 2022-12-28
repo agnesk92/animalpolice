@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Állatrendőrség Alapítvány</title>
-    <link>https://agnesk92.github.io/animalpolice/</link>
+    <link>https://agnesk92.github.io/</link>
     <description>Recent content on Állatrendőrség Alapítvány</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://agnesk92.github.io/animalpolice/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://agnesk92.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rólunk</title>
-      <link>https://agnesk92.github.io/animalpolice/about/</link>
+      <link>https://agnesk92.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agnesk92.github.io/animalpolice/about/</guid>
+      <guid>https://agnesk92.github.io/about/</guid>
       <description>Emberek az állatokért 2013 alapítvány Alapítványunk civil önkéntesek szerveződése, amely 2013-ban alakult. Alapító tagjaink több éves állatmentői tapasztalattal rendelkeznek. Számunkra az állatmentés elhivatottság, szabadidőnkben önkéntes alapon végezzük.
 Alapítványunk célja az állatok jólétének, minőségi életének segítése, az állatkínzás áldozatainak esett állatok azonnali mentése, a hatóságokkal közreműködésével.
 Továbbá állatorvoshoz való szállítás, ideiglenes elhelyezése, gyógykezeltetésének, testi, lelki rehabilitációjának megteremtése és végleges örökbeadásuk.
@@ -19,19 +19,19 @@ A helyes és felelős állattartás, valamint az állatvédelmi törvények megi
     
     <item>
       <title>Partnereink</title>
-      <link>https://agnesk92.github.io/animalpolice/partners/</link>
+      <link>https://agnesk92.github.io/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agnesk92.github.io/animalpolice/partners/</guid>
+      <guid>https://agnesk92.github.io/partners/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kapcsolat</title>
-      <link>https://agnesk92.github.io/animalpolice/contact/</link>
+      <link>https://agnesk92.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agnesk92.github.io/animalpolice/contact/</guid>
+      <guid>https://agnesk92.github.io/contact/</guid>
       <description>Elérhetőség Bejegyzési Szám: 11804
 Megyei Nyilvántartási szám: 11804 / 2013
 Országos Nyilvántartásbeli Azonosító: 1755 / 2013
@@ -43,10 +43,10 @@ Email: info@allatrendorseg.com</description>
     
     <item>
       <title>Segítenél?</title>
-      <link>https://agnesk92.github.io/animalpolice/help/</link>
+      <link>https://agnesk92.github.io/help/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agnesk92.github.io/animalpolice/help/</guid>
+      <guid>https://agnesk92.github.io/help/</guid>
       <description>Pénz Adomány Rendszeres havi utalás bármilyen kis összegben.
 Tárgyi Adomány Amire szükségünk lehet..
 Önkéntes Munkáink Alkalmanként az alábbiakra önkéntes segítségekre lehet szükségünk.
@@ -58,10 +58,10 @@ Gyakori helyszíneink: ..
     
     <item>
       <title>Támogass!</title>
-      <link>https://agnesk92.github.io/animalpolice/donate/</link>
+      <link>https://agnesk92.github.io/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agnesk92.github.io/animalpolice/donate/</guid>
+      <guid>https://agnesk92.github.io/donate/</guid>
       <description>Pénz Adomány Bankszámlaszám: HU68 12010422-01418753-00100008</description>
     </item>
     

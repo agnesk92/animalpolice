@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Állatrendőrség Alapítvány</title>
-    <link>https://agnesk92.github.io/animalpolice/categories/</link>
+    <link>https://agnesk92.github.io/categories/</link>
     <description>Recent content in Categories on Állatrendőrség Alapítvány</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://agnesk92.github.io/animalpolice/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://agnesk92.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
