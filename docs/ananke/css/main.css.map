@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/agnesk/Projects/animalpolice",
+	"sourceRoot": "/home/joelazar/git/agnesk92/animalpolice",
 	"sources": [
 		"ananke/css/main.css"
 	],
