@@ -1,4 +1,4 @@
-baseURL = 'https://agnesk92.github.io/'
+baseURL = 'https://agnesk92.github.io/animalpolice/'
 # languageCode = 'en-us'
 title = 'Állatrendőrség Alapítvány'
 
@@ -12,7 +12,7 @@ Paginate = 1 # this is set low for demonstrating with dummy content. Set to a hi
 site_logo = "images/logo-200.png"
 recent_posts_number = 1
 background_color_class = "bg-black"
-description = "asd Charity Organization"
+description = "Charity Organization"
 
 [[params.ananke_socials]]
 name = "facebook"
