@@ -1,7 +1,7 @@
 ---
 title: Segítenél?
 omit_header_text: true
-weight: 5
+weight: 3
 type: page
 menu: main
 ---
@@ -62,7 +62,7 @@ Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2
 
 Gazdikeresőink hirdetéseinek karbantartása illetve kontentek készítése (új posztok, képek, videók, leírások) hatalmas segítség számunkra, hiszen online jelenlétünk miatt tudunk megfelelő gazdit találni állatainknak.
 
-Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél önkéntesünk otthonról is, [írj](../contact.md) nekünk bátran!
+Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél önkéntesünk otthonról is, [írj](../animalpolice/contact) nekünk bátran!
 
 [TikTok](https://www.tiktok.com/@allatrendorsegalapitvany), [Instagram](https://www.instagram.com/allatrendorseg_alapitvany), [FaceBook](https://www.facebook.com/allatrendorseg2013) és [YouTube](https://www.youtube.com/@allatrendorsegalapitvany2841) accountjaink bármelyikéhez várunk segítséget!
 

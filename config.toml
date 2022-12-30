@@ -1,5 +1,4 @@
 baseURL = 'https://agnesk92.github.io/animalpolice/'
-# languageCode = 'en-us'
 title = 'Állatrendőrség Alapítvány'
 
 theme = "ananke"
@@ -7,11 +6,6 @@ theme = "ananke"
 DefaultContentLanguage = "hu"
 SectionPagesMenu = "main"
 Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
-
-# [menu]
-# [menu.docs]
-# # parent = 'extras'
-# weight = 20
 
 [params]
 favicon = "images/logo-smallest.png"
@@ -36,7 +30,6 @@ url = "https://www.tiktok.com/@allatrendorsegalapitvany"
 [[params.ananke_socials]]
 name = "youtube"
 url = "https://www.youtube.com/@allatrendorsegalapitvany2841"
-
 
 [languages]
 

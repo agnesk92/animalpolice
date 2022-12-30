@@ -1,7 +1,7 @@
 ---
 title: Támogass!
 omit_header_text: true
-weight: 4
+weight: 2
 type: page
 menu: main
 ---
