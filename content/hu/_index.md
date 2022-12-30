@@ -3,7 +3,7 @@ title: "Állatrendőrség Alapítvány"
 description: "Emberek az Állatokért Állatrendőrség 2013 Alapítvány"
 theme_version: "2.8.2"
 cascade:
-  featured_image: "/images/allatrendorseg_cat_cropped.jpg"
+  featured_image: "/images/ar_cat_cropped.jpg"
 weight: 1
 ---
 

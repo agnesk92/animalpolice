@@ -1,6 +1,6 @@
 ---
 title: About
-featured_image: ''
+featured_image: ""
 omit_header_text: true
 type: page
 menu: main
@@ -20,4 +20,4 @@ Introducing and enforcing correct and responsible animal husbandry and animal pr
 
 We want to achieve our goals with our cooperating partners from the entire territory of Hungary.
 
-{{< figure src="/images/307446451_640933240734296_5604354055506405349_n.jpg" >}}
+{{< figure src="/images/ar_cat.jpg" >}}
