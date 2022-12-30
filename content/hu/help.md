@@ -32,7 +32,11 @@ Mentettkéink gondozásában (etetés, takarítás, foglalkozás, játék a cic�
 
 Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2013) oldalunkon vagy kérdezz róluk üzenetben!
 
-**Gyakori helyszíneink:** [KÖKI Bevásárlóközpont TESCO](https://www.google.com/maps/place/Tesco/@47.4628501,19.1436555,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c2e1d814f395:0x440d1c78f424591e!8m2!3d47.4628501!4d19.1458442)
+**Gyakori helyszíneink:**
+
+- [KÖKI Bevásárlóközpont](https://goo.gl/maps/LN1HAJdnbkcwuqHo9)
+- [MOM Bevásárlóközpont](https://goo.gl/maps/yJKHDEwLaFPC3DKaA)
+- [Asia Center](https://goo.gl/maps/3CKbBeMFaMtN5HSNA)
 
 {{< figure src="/animalpolice/images/volunteering/adomanygyujtes_cut.jpg">}}
 
