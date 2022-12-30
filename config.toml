@@ -33,7 +33,7 @@ url = "https://www.youtube.com/@allatrendorsegalapitvany2841"
 
 [languages]
 
-[languages.en]
+[languages.EN]
 title = "Animal Police Organization"
 weight = 1
 contentDir = "content/en"
