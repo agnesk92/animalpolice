@@ -7,7 +7,7 @@ cascade:
 weight: 1
 ---
 
-**Welcome on our organizations webpage!**
+**Welcome on our organizations webpage! 😺**
 
 Find out more about us!
 
