@@ -11,12 +11,12 @@ weight: 1
 
 Tudj meg többet rólunk!
 
-[Kik vagyunk mi?](../animalpolice/about)
+[👥 Kik vagyunk mi?](../animalpolice/about)
 
-[Hogyan tudsz Te is segíteni?](../animalpolice/help)
+[👐 Hogyan tudsz Te is segíteni?](../animalpolice/help)
 
-[Hogyan tudsz pénzadományt küldeni nekünk?](../animalpolice/donate)
+[🤗 Hogyan tudsz pénzadományt küldeni nekünk?](../animalpolice/donate)
 
-[Hol érsz el minket?](../animalpolice/contact)
+[📨 Hol érsz el minket?](../animalpolice/contact)
 
-[Itt olvashatod éves beszámolóinkat!](../animalpolice/report)
+[📑 Itt olvashatod éves beszámolóinkat!](../animalpolice/report)
