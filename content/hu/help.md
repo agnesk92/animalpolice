@@ -54,7 +54,7 @@ Ideiglenes befogadáskor a költségeket szervezetünk állja továbbra is (pél
 
 Gazdikeresőink hirdetéseinek karbantartása illetve kontentek készítése (új posztok, képek, videók, leírások) hatalmas segítség számunkra, hiszen online jelenlétünk miatt tudunk megfelelő gazdit találni állatainknak.
 
-Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél önkéntesünk otthonról is, [írj](../animalpolice/contact) nekünk bátran!
+Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél önkéntesünk otthonról is, [írj](../contact) nekünk bátran!
 
 [TikTok](https://www.tiktok.com/@allatrendorsegalapitvany), [Instagram](https://www.instagram.com/allatrendorseg_alapitvany), [FaceBook](https://www.facebook.com/allatrendorseg2013) és [YouTube](https://www.youtube.com/@allatrendorsegalapitvany2841) accountjaink bármelyikéhez várunk segítséget!
 

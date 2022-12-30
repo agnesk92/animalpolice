@@ -18,7 +18,7 @@ Számunkra az állatmentés elhivatottság, szabadidőnkben önkéntes alapon v�
 - Mentett állatok állatorvosi kezelése, ideiglenes elhelyezése, testi, lelki rehabilitációjának megteremtése és végleges örökbeadásuk.
 - A helyes és felelős állattartás, valamint az állatvédelmi törvények megismertetése gyermekek számára előadások keretében.
 
-**Hivatalos Címünk:** 1124. Budapest Fodor u. 120.
+**Hivatalos Címünk:** [1124. Budapest Fodor u. 120.](https://goo.gl/maps/SjrhPhb68WLLcYp68)
 
 **Bejegyzési szám:** 11804
 
