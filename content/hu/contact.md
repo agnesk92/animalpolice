@@ -15,6 +15,6 @@ Keress minket alábbi elérhetőségeinken:
 
 Vagy írj üzenetet közvetlenül weblapunkról:
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/xjvdvbko"  >}}
 
 {{< figure src="/animalpolice/images/kitten.jpg">}}
