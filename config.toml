@@ -8,6 +8,11 @@ DefaultContentLanguage = "hu"
 SectionPagesMenu = "main"
 Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
 
+# [menu]
+# [menu.docs]
+# # parent = 'extras'
+# weight = 20
+
 [params]
 favicon = "images/logo-smallest.png"
 site_logo = "images/logo-200.png"

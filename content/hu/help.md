@@ -1,35 +1,82 @@
 ---
 title: Segítenél?
 omit_header_text: true
-weight: 4
+weight: 5
 type: page
 menu: main
 ---
 
-## Pénz Adomány
+<!-- ## Pénz Adomány
 
 Rendszeres havi utalás bármilyen kis összegben.
 
 ## Tárgyi Adomány
 
-Amire szükségünk lehet..
+Amire szükségünk lehet.. -->
 
-## Önkéntes Munkáink
+## Önkéntesség - Miben segíthetsz?
 
-Alkalmanként az alábbiakra önkéntes segítségekre lehet szükségünk.
+{{< figure src="/animalpolice/images/volunteering/adomanygyujtes.jpg">}}
 
-### Macskaház
+### CicaOtthon
 
-[Itt]() olvashatod a Macskaház bemutatkozását.
+Alapítványunk CicaOtthona a Budai Kisállatklinikán működik, Dr Hacco Oren jóvoltából, így cicáink közvetlen orvosi felügyelet alatt állnak.
+
+Folyamatosan telt házzal működünk, az ország minden tájáról fogadunk bajba jutott állatokat, akiknek felgyógyulásukat, rehabilitációjukat követően keresünk felelős gazdákat.
+
+A cicák gondozását önkénteseink végzik.
+
+Az otthon előzetes egyeztetés után fogad látogatókat.
+
+Mentettkéink gondozásában (etetés, takarítás, foglalkozás, játék a cicákkal), apróbb szerelési, javítási munkákban várunk itt leginkább segítséget.
+
+**Helyszín:** [Budapest, Csárda u. 10, 1112 Hungary](https://www.google.com/maps/place/Budai+Kis%C3%A1llatklinika+Rendel%C5%91int%C3%A9zete/@47.4601847,19.0090975,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dde8b4e67e71:0x6ab64ed305e20d1f!8m2!3d47.4602015!4d19.0112449)
+
+{{< figure src="/animalpolice/images/cathome/cat_cow.jpg">}}
+
+{{< figure src="/animalpolice/images/cathome/Klinika.jpg">}}
+
+### Ideiglenes Befogadás
+
+Az ideiglenes befogadásnak fontos szerepe van az állatok örökbeadásának kimenetelében: míg mentettkénk megtanulja, mi az hogy kanapé, szeretet, család, játék, befogadója segít megismerni nekünk is a nála lévő cicát, kutyát.
+
+Ezáltal örökbefogadáskor könnyebben tudjuk kiválasztani az ideális családot.
+
+Emellett az ideiglenes befogadással segítessz nekünk is, hogy több állatot tudjunk megmenteni.
+
+Ideiglenes befogadáskor a költségeket szervezetünk állja továbbra is (például orvosi ellátások, táp, alom, gyógyszerek), hogy befogadóinknak több ideje legyen arra, ami fontos: otthon, szeretet, tanítás megadására.
+
+{{< figure src="/animalpolice/images/pexels-cathome.jpg">}}
 
 ### Adománygyűjtés
 
 Önkénteseink váltják egymást, így rövidebb időre is nagy szeretettel várunk!
 
-Gyakori helyszíneink: ..
+Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2013) oldalunkon vagy kérdezz róluk üzenetben!
 
-### Állatok Fotózása
+**Gyakori helyszíneink:** [KÖKI Bevásárlóközpont TESCO](https://www.google.com/maps/place/Tesco/@47.4628501,19.1436555,17z/data=!3m1!4b1!4m5!3m4!1s0x4741c2e1d814f395:0x440d1c78f424591e!8m2!3d47.4628501!4d19.1458442)
 
-### Szociális Média Manadzselése
+{{< figure src="/animalpolice/images/volunteering/adomanygyujtes_cut.jpg">}}
 
-### Informatikai Segítség
+### Szociális Média Karbantartása
+
+Gazdikeresőink hirdetéseinek karbantartása illetve kontentek készítése (új posztok, képek, videók, leírások) hatalmas segítség számunkra, hiszen online jelenlétünk miatt tudunk megfelelő gazdit találni állatainknak.
+
+Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél önkéntesünk otthonról is, [írj](../contact.md) nekünk bátran!
+
+[TikTok](https://www.tiktok.com/@allatrendorsegalapitvany), [Instagram](https://www.instagram.com/allatrendorseg_alapitvany), [FaceBook](https://www.facebook.com/allatrendorseg2013) és [YouTube](https://www.youtube.com/@allatrendorsegalapitvany2841) accountjaink bármelyikéhez várunk segítséget!
+
+{{< figure src="/animalpolice/images/fb.jpg">}}
+
+### Egyéb Lehetőségek
+
+- Felveheted a kapcsolatot külföldi szervezetekkel.
+- Tolmácsolhatsz és fordíthatsz.
+- Kereshetsz támogatókat, s helyet adománygyűjtő dobozunknak.
+- Toborozhatsz tagokat, önkénteseket.
+- Segíthetsz fuvarozásban, adományok begyűjtésében, állatok szállításában.
+- Segíthetsz kitelepülések, rendezvények szervezésében.
+- Utánajárhatsz a lakossági bejelentéseknek.
+- Segíthetsz a TNR programban.
+
+{{< figure src="/animalpolice/images/sp_volunteer.jpg">}}

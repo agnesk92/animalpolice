@@ -7,18 +7,14 @@ type: page
 menu: main
 ---
 
-# Elérhetőség
+## Elérhetőség
 
-**Bejegyzési Szám:** 11804
-
-**Megyei Nyilvántartási szám:** 11804 / 2013
-
-**Országos Nyilvántartásbeli Azonosító:** 1755 / 2013
-
-**Adószám:** 18514254-1-43
-
-**Bankszámlaszám:** HU68 12010422-01418753-00100008
-
-**Hivatalos Címünk:** 1124. Budapest Fodor u. 120.
+Keress minket alábbi elérhetőségeinken:
 
 **Email:** info@allatrendorseg.com
+
+Vagy írj üzenetet közvetlenül weblapunkról:
+
+{{< form-contact action="https://example.com"  >}}
+
+{{< figure src="/animalpolice/images/kitten.jpg">}}

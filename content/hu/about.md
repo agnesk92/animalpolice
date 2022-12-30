@@ -6,18 +6,28 @@ type: page
 menu: main
 ---
 
-# Emberek az állatokért 2013 alapítvány
+## Emberek Az Állatokért 2013 Alapítvány
 
 Alapítványunk civil önkéntesek szerveződése, amely 2013-ban alakult.
 Alapító tagjaink több éves állatmentői tapasztalattal rendelkeznek.
 Számunkra az állatmentés elhivatottság, szabadidőnkben önkéntes alapon végezzük.
 
-Alapítványunk célja az állatok jólétének, minőségi életének segítése, az állatkínzás áldozatainak esett állatok azonnali mentése, a hatóságokkal közreműködésével.
+## Alapítványunk Célja
 
-Továbbá állatorvoshoz való szállítás, ideiglenes elhelyezése, gyógykezeltetésének, testi, lelki rehabilitációjának megteremtése és végleges örökbeadásuk.
+- Sérült, megkínzott, bajba jutott állatok mentése, közterületen élő macskakolóniák ivartalanítása.
+- Mentett állatok állatorvosi kezelése, ideiglenes elhelyezése, testi, lelki rehabilitációjának megteremtése és végleges örökbeadásuk.
+- A helyes és felelős állattartás, valamint az állatvédelmi törvények megismertetése gyermekek számára előadások keretében.
 
-A helyes és felelős állattartás, valamint az állatvédelmi törvények megismertetése és betartatása a lakosság körében.
+**Hivatalos Címünk:** 1124. Budapest Fodor u. 120.
 
-Céljainkat együttműködő partnereinkkel Magyarország egész területéről kívánjuk véghezvinni.
+**Bejegyzési szám:** 11804
+
+**Megyei nyilvántartási szám:** 11804 / 2013
+
+**Országos nyilvántartásbeli azonosító:** 1755 / 2013
+
+**Adószám:** 18514254-1-43
+
+**Bankszámlaszám:** HU68 12010422-01418753-00100008
 
 {{< figure src="/animalpolice/images/ar_cats.jpg" >}}
