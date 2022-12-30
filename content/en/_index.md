@@ -3,7 +3,7 @@ title: "Animal Police Foundation"
 description: "Charity Organization"
 theme_version: "2.8.2"
 cascade:
-  featured_image: "/images/pexels-pixabay-207901.jpg"
+  featured_image: "/images/allatrendorseg_cat_cropped.jpg"
 weight: 1
 ---
 
