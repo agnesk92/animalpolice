@@ -26,18 +26,6 @@ Mentettkéink gondozásában (etetés, takarítás, foglalkozás, játék a cic�
 
 {{< figure src="/animalpolice/images/cathome/Klinika.jpg">}}
 
-## Ideiglenes Befogadás
-
-Az ideiglenes befogadásnak fontos szerepe van az állatok örökbeadásának kimenetelében: míg mentettkénk megtanulja, mi az hogy kanapé, szeretet, család, játék, befogadója segít megismerni nekünk is a nála lévő cicát, kutyát.
-
-Ezáltal örökbefogadáskor könnyebben tudjuk kiválasztani az ideális családot.
-
-Emellett az ideiglenes befogadással segítessz nekünk is, hogy több állatot tudjunk megmenteni.
-
-Ideiglenes befogadáskor a költségeket szervezetünk állja továbbra is (például orvosi ellátások, táp, alom, gyógyszerek), hogy befogadóinknak több ideje legyen arra, ami fontos: otthon, szeretet, tanítás megadására.
-
-{{< figure src="/animalpolice/images/pexels-cathome.jpg">}}
-
 ## Adománygyűjtés
 
 Önkénteseink váltják egymást, így rövidebb időre is nagy szeretettel várunk!
@@ -49,6 +37,18 @@ Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2
 {{< figure src="/animalpolice/images/volunteering/adomanygyujtes_cut.jpg">}}
 
 {{< figure src="/animalpolice/images/volunteering/adomanygyujtes.jpg">}}
+
+## Ideiglenes Befogadás
+
+Az ideiglenes befogadásnak fontos szerepe van az állatok örökbeadásának kimenetelében: míg mentettkénk megtanulja, mi az hogy kanapé, szeretet, család, játék, befogadója segít megismerni nekünk is a nála lévő cicát, kutyát.
+
+Ezáltal örökbefogadáskor könnyebben tudjuk kiválasztani az ideális családot.
+
+Emellett az ideiglenes befogadással segítessz nekünk is, hogy több állatot tudjunk megmenteni.
+
+Ideiglenes befogadáskor a költségeket szervezetünk állja továbbra is (például orvosi ellátások, táp, alom, gyógyszerek), hogy befogadóinknak több ideje legyen arra, ami fontos: otthon, szeretet, tanítás megadására.
+
+{{< figure src="/animalpolice/images/pexels-cathome.jpg">}}
 
 ## Szociális Média Karbantartása
 
