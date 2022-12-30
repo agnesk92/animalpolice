@@ -1,5 +1,5 @@
 ---
-title: Reports
+title: Yearly Reports
 omit_header_text: true
 weight: 6
 type: page
