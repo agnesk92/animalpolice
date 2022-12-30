@@ -1,24 +1,14 @@
 ---
-title: Segítenél?
+title: Önkéntesség
 omit_header_text: true
 weight: 3
 type: page
 menu: main
 ---
 
-<!-- ## Pénz Adomány
+Miben segíthetsz?
 
-Rendszeres havi utalás bármilyen kis összegben.
-
-## Tárgyi Adomány
-
-Amire szükségünk lehet.. -->
-
-## Önkéntesség - Miben segíthetsz?
-
-{{< figure src="/animalpolice/images/volunteering/adomanygyujtes.jpg">}}
-
-### CicaOtthon
+## CicaOtthon
 
 Alapítványunk CicaOtthona a Budai Kisállatklinikán működik, Dr Hacco Oren jóvoltából, így cicáink közvetlen orvosi felügyelet alatt állnak.
 
@@ -36,7 +26,7 @@ Mentettkéink gondozásában (etetés, takarítás, foglalkozás, játék a cic�
 
 {{< figure src="/animalpolice/images/cathome/Klinika.jpg">}}
 
-### Ideiglenes Befogadás
+## Ideiglenes Befogadás
 
 Az ideiglenes befogadásnak fontos szerepe van az állatok örökbeadásának kimenetelében: míg mentettkénk megtanulja, mi az hogy kanapé, szeretet, család, játék, befogadója segít megismerni nekünk is a nála lévő cicát, kutyát.
 
@@ -48,7 +38,7 @@ Ideiglenes befogadáskor a költségeket szervezetünk állja továbbra is (pél
 
 {{< figure src="/animalpolice/images/pexels-cathome.jpg">}}
 
-### Adománygyűjtés
+## Adománygyűjtés
 
 Önkénteseink váltják egymást, így rövidebb időre is nagy szeretettel várunk!
 
@@ -58,7 +48,9 @@ Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2
 
 {{< figure src="/animalpolice/images/volunteering/adomanygyujtes_cut.jpg">}}
 
-### Szociális Média Karbantartása
+{{< figure src="/animalpolice/images/volunteering/adomanygyujtes.jpg">}}
+
+## Szociális Média Karbantartása
 
 Gazdikeresőink hirdetéseinek karbantartása illetve kontentek készítése (új posztok, képek, videók, leírások) hatalmas segítség számunkra, hiszen online jelenlétünk miatt tudunk megfelelő gazdit találni állatainknak.
 
@@ -68,7 +60,7 @@ Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél
 
 {{< figure src="/animalpolice/images/fb.jpg">}}
 
-### Egyéb Lehetőségek
+## Egyéb Lehetőségek
 
 - Felveheted a kapcsolatot külföldi szervezetekkel.
 - Tolmácsolhatsz és fordíthatsz.

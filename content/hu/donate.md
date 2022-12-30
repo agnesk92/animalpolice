@@ -1,10 +1,20 @@
 ---
-title: Támogass!
+title: Adományozz!
 omit_header_text: true
 weight: 2
 type: page
 menu: main
 ---
+
+## Tárgyi Adomány
+
+Vedd fel velünk a kapcsolatot, ha szeretnél tárgyi adományokkal segíteni, hogy tudjunk egyeztetni, mire van éppen szükségünk.
+
+Amire szükségünk lehet:
+
+- Macskatápok
+- Alom
+- Fekhelyek, takarók
 
 ## Pénz Adomány
 

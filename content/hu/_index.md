@@ -7,7 +7,7 @@ cascade:
 weight: 1
 ---
 
-Üdvözlünk alapítványunk honlapján!
+**Üdvözlünk alapítványunk honlapján!**
 
 Tudj meg többet rólunk!
 
