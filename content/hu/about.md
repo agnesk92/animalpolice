@@ -20,4 +20,4 @@ A helyes és felelős állattartás, valamint az állatvédelmi törvények megi
 
 Céljainkat együttműködő partnereinkkel Magyarország egész területéről kívánjuk véghezvinni.
 
-{{< figure src="/images/ar_cat.jpg" >}}
+{{< figure src="/animalpolice/images/ar_cat.jpg" >}}
