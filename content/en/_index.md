@@ -7,6 +7,16 @@ cascade:
 weight: 1
 ---
 
-![](/images/ar_cats.jpg)
+**Welcome on our organizations webpage!**
 
-![](/images/ar_cat_cropped.jpg)
+Find out more about us!
+
+[👥 Who are we?](../animalpolice/about)
+
+[👐 How can you help?](../animalpolice/help)
+
+[🤗 How can you donate?](../animalpolice/donate)
+
+[📨 Where can you contact us?](../animalpolice/contact)
+
+[📑 Find our yearly spending reports here!](../animalpolice/report)

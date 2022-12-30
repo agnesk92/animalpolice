@@ -15,7 +15,7 @@ Tudj meg többet rólunk!
 
 [👐 Hogyan tudsz Te is segíteni?](../animalpolice/help)
 
-[🤗 Hogyan tudsz pénzadományt küldeni nekünk?](../animalpolice/donate)
+[🤗 Hogyan tudsz adományozni nekünk?](../animalpolice/donate)
 
 [📨 Hol érsz el minket?](../animalpolice/contact)
 
