@@ -7,4 +7,14 @@ type: page
 menu: main
 ---
 
+## Contact
+
+Write an email to us:
+
+**Email:** info@allatrendorseg.com
+
+Or send a message directly from this page:
+
 {{< form-contact action="https://formspree.io/f/xjvdvbko"  >}}
+
+{{< figure src="/animalpolice/images/kitten.jpg">}}
