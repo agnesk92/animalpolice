@@ -6,4 +6,14 @@ type: page
 menu: main
 ---
 
-[2022](/animalpolice/files/2022.pdf)
+2022
+
+2021
+
+2020
+
+[2019](/animalpolice/files/2019.pdf)
+
+2018
+
+2017
