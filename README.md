@@ -26,6 +26,4 @@ hugo server -D
 
 ## Refs
 
-Hide URL: https://cloak.ist/
-
 Photo by Pixabay: https://www.pexels.com/photo/adorable-animal-blurred-background-cat-207901/
