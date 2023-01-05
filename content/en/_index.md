@@ -11,12 +11,12 @@ weight: 1
 
 Find out more about us!
 
-[👥 Who are we?](../animalpolice/about)
+[👥 Who are we?](../about)
 
-[👐 How can you help?](../animalpolice/help)
+[👐 How can you help?](../help)
 
-[🤗 How can you donate?](../animalpolice/donate)
+[🤗 How can you donate?](../donate)
 
-[📨 Where can you contact us?](../animalpolice/contact)
+[📨 Where can you contact us?](../contact)
 
-[📑 Find our yearly spending reports here!](../animalpolice/report)
+[📑 Find our yearly spending reports here!](../report)
