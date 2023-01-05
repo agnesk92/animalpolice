@@ -66,13 +66,13 @@ Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél
 
 ## Egyéb Lehetőségek
 
-- Felveheted a kapcsolatot külföldi szervezetekkel.
-- Tolmácsolhatsz és fordíthatsz.
+- Segíthetsz a TNR (Befogás, Ivartalanítás, Elengedés) programban.
+- Segíthetsz fuvarozásban, adományok begyűjtésében, állatok szállításában.
 - Kereshetsz támogatókat, s helyet adománygyűjtő dobozunknak.
 - Toborozhatsz tagokat, önkénteseket.
-- Segíthetsz fuvarozásban, adományok begyűjtésében, állatok szállításában.
+- Tolmácsolhatsz és fordíthatsz.
 - Segíthetsz kitelepülések, rendezvények szervezésében.
 - Utánajárhatsz a lakossági bejelentéseknek.
-- Segíthetsz a TNR programban.
+- Felveheted a kapcsolatot külföldi szervezetekkel.
 
 {{< figure src="/animalpolice/images/sp_volunteer.jpg">}}
