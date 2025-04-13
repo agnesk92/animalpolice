@@ -37,6 +37,17 @@ Currently using [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
 
 Maybe try [rjordaney](https://rjordaney.is/).
 
+Update the theme:
+
+```bash
+cd themes/ananke
+git pull origin main
+
+cd ../..
+git add themes/your-theme
+git commit -m "Update theme to the latest version"
+```
+
 ## Refs
 
 Example site: <https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite/content/fr>
