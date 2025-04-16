@@ -1,29 +1,55 @@
-# Animal Police Hugo Website
+# Animal Police hugo website
 
-To replace this one
+Made to replace the [old website](https://www.allatrendorseg.com/post/hollandi%C3%A1ban-is).
 
-https://www.allatrendorseg.com/post/hollandi%C3%A1ban-is
+## Development
 
-Quick start
+### Quick start
 
-https://gohugo.io/getting-started/quick-start/
+Requirements:
+
+- Go
+- Git
+
+To use the ananke theme, you need to clone the repo with its submodules.
+
+```bash
+# Clone with submodules
+git clone --recurse-submodules {repo-url}
+
+# Clone first then initialize submodules
+git clone {repo-url}
+git submodule init
+git submodule update
+```
+
+To start the server:
+
+```bash
+hugo server -D
+```
+
+For further set up, read Hugo's [quick start guide](https://gohugo.io/getting-started/quick-start/).
 
 ## Theme
 
-- https://github.com/theNewDynamic/gohugo-theme-ananke
+Currently using [ananke](https://github.com/theNewDynamic/gohugo-theme-ananke).
 
-Maybe try:
+Maybe try [rjordaney](https://rjordaney.is/).
 
-- https://rjordaney.is/
+Update the theme:
 
-## Start Up
+```bash
+cd themes/ananke
+git pull origin main
 
-Example site: https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite/content/fr
-
-```
-hugo server -D
+cd ../..
+git add themes/your-theme
+git commit -m "Update theme to the latest version"
 ```
 
 ## Refs
 
-Photo by Pixabay: https://www.pexels.com/photo/adorable-animal-blurred-background-cat-207901/
+Example site: <https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite/content/fr>
+
+Photo by Pixabay: <https://www.pexels.com/photo/adorable-animal-blurred-background-cat-207901/>
