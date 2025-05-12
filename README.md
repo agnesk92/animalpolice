@@ -1,6 +1,8 @@
-# Animal Police hugo website
+> **WARNING**: THIS REPO WAS MOVED!
+>
+> This repo was moved to [it's own repository](https://github.com/allatrendorseg/allatrendorseg.github.io)! 📦
 
-Made to replace the [old website](https://www.allatrendorseg.com/post/hollandi%C3%A1ban-is).
+# Animal Police Website
 
 ## Development
 
@@ -50,6 +52,6 @@ git commit -m "Update theme to the latest version"
 
 ## Refs
 
-Example site: <https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite/content/fr>
+- [Example site](https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite/content/fr)
 
-Photo by Pixabay: <https://www.pexels.com/photo/adorable-animal-blurred-background-cat-207901/>
+- Photo by [Pixabay](https://www.pexels.com/photo/adorable-animal-blurred-background-cat-207901/)
